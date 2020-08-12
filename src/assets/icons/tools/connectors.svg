@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.121" height="21.769" viewBox="0 0 22.121 21.769">
+    <g fill="none" transform="translate(-22.608 -165.477)">
+        <line style="stroke-width: 2;" stroke="currentColor" y1="6.73" x2="6.851" transform="translate(36.817 166.538)"/>
+        <line style="stroke-dasharray:1 2;stroke-width: 2;" stroke="currentColor" y1="7.331" x2="7.463" transform="translate(23.668 178.854)"/>
+        <g class="a" stroke="currentColor" transform="translate(32.188 173.85)">
+            <circle class="c" cx="2.1" cy="2.1" r="2.1"/>
+            <circle class="d" cx="2.1" cy="2.1" r="1.35"/>
+        </g>
+    </g>
+</svg>

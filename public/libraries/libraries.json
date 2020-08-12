@@ -1,0 +1,11 @@
+{
+    "libraries": [
+        {
+            "id": "shapes",
+            "name": "Shapes"
+        }, {
+            "id": "flowchart",
+            "name": "Flowchart"
+        }
+    ]
+}

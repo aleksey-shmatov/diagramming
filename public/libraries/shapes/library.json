@@ -1,0 +1,38 @@
+{
+    "name": "Shapes",
+    "id": "shapes",
+    "shapes": [
+        {
+            "id": "square",
+            "name": "square",
+            "type": "shape",
+            "tags": ["rectangle"],
+            "width": 100,
+            "height": 100
+        },
+        {
+            "id": "circle",
+            "name": "circle",
+            "type": "shape",
+            "tags": ["circle"],
+            "width": 100,
+            "height": 100
+        }, 
+        {
+            "id": "star",
+            "name": "star",
+            "type": "shape",
+            "tags": ["star"],
+            "width": 100,
+            "height": 100
+        },
+        {
+            "id": "click",
+            "name": "click",
+            "type": "click",
+            "tags": ["click"],
+            "width": 75,
+            "height": 100
+        }
+    ]
+}

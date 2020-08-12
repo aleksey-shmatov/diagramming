@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="17.433" viewBox="0 0 21 17.433">
+    <defs>
+        <style>.a{fill:none;stroke-linecap:round;stroke-linejoin:round;}</style>
+    </defs>
+    <g transform="translate(-23.778 -220.258)">
+        <rect class="a" stroke="currentColor" width="20" height="16.433" rx="1" transform="translate(24.278 220.758)"/>
+        <path class="b" fill="currentColor"
+              d="M24.77,230.482l2.964-3.495a.806.806,0,0,1,1.252.026l1.964,2.524a.806.806,0,0,0,1.255.022l4.812-5.775a.807.807,0,0,1,1.24,0l5.572,6.7a.8.8,0,0,1,.187.516v3a.806.806,0,0,1-.806.806H25.385a.806.806,0,0,1-.806-.806v-3A.808.808,0,0,1,24.77,230.482Z"
+              transform="translate(0.262 2.383)"/>
+        <circle fill="currentColor" class="b" cx="1.879" cy="1.879" r="1.879" transform="translate(29.711 223.121)"/>
+    </g>
+</svg>

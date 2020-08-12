@@ -1,0 +1,27 @@
+name: Build & Deploy
+on:
+  push:
+    branches: [master]
+jobs:
+  build:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v1
+      with:
+        node-version: '12.x'
+    - uses: actions/cache@v1
+      with:
+        path: node_modules
+        key: ${{ runner.os }}-js-${{ hashFiles('yarn.lock') }}
+    - run: yarn
+    - run: yarn build
+      env:
+        NODE_ENV: production
+    - uses: GoogleCloudPlatform/github-actions/setup-gcloud@master
+      with:
+        service_account_email: ${{ secrets.GCP_SA_EMAIL }}
+        service_account_key: ${{ secrets.GCP_SA_KEY }}
+    - run: gsutil -m rsync -d -c -r build gs://diagram-software
+

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14.47" height="18.75" viewBox="0 0 14.47 18.75">
+    <line stroke="currentColor" stroke-width="1.5"  x1="7.23" y1="5.45" x2="7.23" y2="18.75" />
+    <path stroke="currentColor" stroke-width="1.5" fill="none" d="M12,9.14,7.23,4.36,2.46,9.14" transform="translate(0 0.75)" />
+    <line stroke="currentColor" stroke-width="1.5" x1="14.47" y1="0.75" y2="0.75" />
+</svg>

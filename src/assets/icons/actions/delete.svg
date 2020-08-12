@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="11" height="14.209" viewBox="0 0 11 14.209">
+    <g fill="none" stroke="currentColor" stroke-width="1.5" transform="translate(-294.823 -156.472)">
+        <rect width="10" height="11" rx="1.095" transform="translate(295.324 159.181)" />
+        <path d="M298.824,158.067a1.094,1.094,0,0,1,1.094-1.1h.811a1.1,1.1,0,0,1,1.1,1.1" />
+        <path d="M296.824,159.484v-.811a1.094,1.094,0,0,1,1.094-1.094h4.811a1.1,1.1,0,0,1,1.1,1.094v.811" />
+        <line y1="7.332" transform="translate(298.324 161.015)" />
+        <line y1="7.332" transform="translate(300.324 161.015)" />
+        <line y1="7.332" transform="translate(302.324 161.015)" />
+    </g>
+</svg>

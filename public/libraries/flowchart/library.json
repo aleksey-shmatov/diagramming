@@ -1,0 +1,14 @@
+{
+    "name": "Flowchart",
+    "id": "flowchart",
+    "shapes": [
+        {
+            "id": "condition",
+            "name": "condition",
+            "type": "shape",
+            "tags": ["block"],
+            "width": 100,
+            "height": 80
+        }
+    ]
+}

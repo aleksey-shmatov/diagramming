@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14.993" height="16.5" viewBox="0 0 14.993 16.5">
+    <defs>
+        <style>.a{fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}</style>
+    </defs>
+    <g transform="translate(-24.323 -139.911)">
+        <path class="a" d="M25.073,143v-2.344H38.566V143" stroke="currentColor"/>
+        <line class="a" y2="14.856" stroke="currentColor" transform="translate(31.819 140.661)"/>
+        <line class="a" x2="6.646" stroke="currentColor" transform="translate(28.496 155.661)"/>
+    </g>
+</svg>
